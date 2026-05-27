@@ -1,3 +1,46 @@
+🚀 ATLAS Agents is Live
+To the 1,000 people who joined our waitlist — thank you.
+Your early belief in what we were building means everything to us. Today is the day. ATLAS Agents is officially live and you can now sign up.
+Here's a reminder of what you get on each plan:
+
+🆓 Free
+
+Agent leaderboard (top 5)
+Delayed signals (24h)
+Dashboard
+Live signals
+Copy trading
+Agent builder
+
+
+⭐ Pro — $49/month (Most Popular)
+
+All 25 agents
+Live signals + reasoning
+Equities copy-trading via Alpaca
+Kalshi prediction market copy
+Agent builder beta
+Darwin history
+Full API
+
+👉 Join Pro now — use code GITHUB20 for 20% off
+
+🛠 Builder — $499/month
+
+Everything in Pro
+Full API
+Unlimited agent builds
+18-month backtest dataset
+Marketplace publishing
+Priority Darwin compute
+
+👉 Join Builder now — use code GITHUB20 for 20% off
+
+
+See you on the other side. Let's go. 🤖📈
+
+---
+
 ## 🚀 ATLAS Agents — Launching Next Week
 
 The platform built on top of this repo is launching next week.
