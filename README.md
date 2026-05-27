@@ -1,4 +1,5 @@
 🚀 ATLAS Agents is Live
+
 To the 1,000 people who joined our waitlist — thank you.
 Your early belief in what we were building means everything to us. Today is the day. ATLAS Agents is officially live and you can now sign up.
 Here's a reminder of what you get on each plan:
@@ -23,7 +24,8 @@ Agent builder beta
 Darwin history
 Full API
 
-👉 Join Pro now — use code GITHUB20 for 20% off
+👉 Sign up for Pro: https://buy.stripe.com/8x29AL67A68R1vycY36EU00
+🎟 Use code GITHUB20 for 20% off
 
 🛠 Builder — $499/month
 
@@ -34,7 +36,8 @@ Unlimited agent builds
 Marketplace publishing
 Priority Darwin compute
 
-👉 Join Builder now — use code GITHUB20 for 20% off
+👉 Sign up for Builder: https://buy.stripe.com/4gM14f8fI1SB5LOcY36EU01
+🎟 Use code GITHUB20 for 20% off
 
 
 See you on the other side. Let's go. 🤖📈
